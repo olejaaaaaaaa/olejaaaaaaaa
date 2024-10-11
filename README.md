@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Oleg%20Pavlenko!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20contribute!&descAlignY=53&descAlign=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Oleg%20Pavlenko!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20contribute!&descAlignY=55&descAlign=60)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Student+Backend+Developer    )](https://git.io/typing-svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olejaaaaaaaa&layout=compact)](https://github.com/olejaaaaaaaa/github-readme-stats)
