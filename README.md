@@ -4,6 +4,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olejaaaaaaaa&layout=compact)](https://github.com/olejaaaaaaaa/github-readme-stats)
 
 
+![Codewars](https://github.r2v.ch/codewars?user=olejaaaaaaaa&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
+
+
 *   🌍  I'm based in city Rostov-on-Don
 *   🧠  I'm learning Python Django and Rust WebGPU
 *   🤝  I'm open to collaborating with Maria Beketova
