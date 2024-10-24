@@ -10,8 +10,6 @@
 *   ⚡  I'm 19 old-year man
 
 
-![Codewars](https://github.r2v.ch/codewars?user=olejaaaaaaaa&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olejaaaaaaaa&layout=compact)](https://github.com/olejaaaaaaaa/github-readme-stats)
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
