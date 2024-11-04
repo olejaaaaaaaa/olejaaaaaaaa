@@ -7,7 +7,7 @@
 *   🧠  I'm learning Python Django and Rust WebGPU
 *   🤝  I'm open to collaborating with Maria Beketova
 *   💬  I'm looking for a job now
-*   ⚡  I'm 24 old-year man
+*   ⚡  I'm 19 old-year man
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olejaaaaaaaa&layout=compact)](https://github.com/olejaaaaaaaa/github-readme-stats)
