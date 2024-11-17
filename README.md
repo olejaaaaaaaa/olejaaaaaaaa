@@ -2,7 +2,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Student+Backend+Developer    )](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Backend+Developer    )](https://git.io/typing-svg)
 *   🌍  I'm based in city Rostov-on-Don
 *   🧠  I'm learning Python Django and Rust WebGPU
 *   🤝  I'm open to collaborating with Maria Beketova
