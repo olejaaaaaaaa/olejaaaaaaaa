@@ -9,6 +9,7 @@
 *   💬  I'm looking for a job now
 *   ⚡  I'm 23 old-year man
 
+![](https://leetcard.jacoblin.cool/leetcode?site=cn)
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
