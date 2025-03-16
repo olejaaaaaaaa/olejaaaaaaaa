@@ -1,13 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Oleg%20Pavlenko!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20contribute!&descAlignY=55&descAlign=60)
 
 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Backend+Developer    )](https://git.io/typing-svg)
 *   🌍  I'm based in city Rostov-on-Don
 *   🧠  I'm learning Python Django and Rust WebGPU
 *   🤝  I'm open to collaborating with Maria Beketova
 *   💬  I'm looking for a job now
-*   ⚡  I'm 23 old-year man
 
 ![](https://leetcard.jacoblin.cool/leetcode?site=cn)
 
